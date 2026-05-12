@@ -43,7 +43,7 @@ Java OOP 설계와 Swing GUI 구현을 중심으로 제작했습니다.
 
 ### 메인 화면
 ![main](./images/main.gif)<img width="388" height="287" alt="image" src="https://github.com/user-attachments/assets/a861a939-0add-4fc8-92f8-9baf9fea3625" />
-
+ScreenToGif
 
 ### 전투 화면
 ![battle](./images/battle.gif)
