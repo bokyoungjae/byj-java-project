@@ -40,13 +40,14 @@ Java OOP 설계와 Swing GUI 구현을 중심으로 제작했습니다.
 ---
 
 ## 📷 실행 화면
+<img width="380" height="267" alt="1" src="https://github.com/user-attachments/assets/9f841153-a4e9-4190-843c-8f6375e87922" />
+<img width="376" height="119" alt="2" src="https://github.com/user-attachments/assets/06658aa5-9346-46f8-b982-eb7c8c7aac6e" />
 
 ### 메인 화면
-![main](./images/main.gif)<img width="388" height="287" alt="image" src="https://github.com/user-attachments/assets/a861a939-0add-4fc8-92f8-9baf9fea3625" />
-<img width="801" height="578" alt="Animation" src="https://github.com/user-attachments/assets/14493d4c-183a-4eda-9709-c69d99909677" />
 
 ### 전투 화면
-![battle](./images/battle.gif)
+<img width="840" height="630" alt="3" src="https://github.com/user-attachments/assets/efdc6f74-4fb9-47ba-b8fa-d5d4bd63dc6d" />
+
 
 ---
 
