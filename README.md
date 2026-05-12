@@ -53,24 +53,7 @@ Java OOP 설계와 Swing GUI 구현을 중심으로 제작했습니다.
 ---
 
 ## 🗂 프로젝트 구조
-graph TD
-    Main[Main.java] --> GUI[gui: 화면 UI]
-    Main --> Model[model: 데이터/로직]
-    
-    GUI --> BattleLog[BattleLogPanel]
-    GUI --> MainFrame[MainFrame]
-    GUI --> Status[StatusPanel]
-    
-    Model --> Warrior[Warrior]
-    Model --> Mage[Mage]
-    Model --> Monster[Monster]
-    
-    Warrior -- 구현 --> Skill[interfaces: SkillAction]
-    Mage -- 구현 --> Skill
-    
-    Model -- 사용 --> Item[item: Item]
-    Model -- 예외발생 --> Exception[exception: Custom Errors]
----
+[Uploading 제목 없는 다이어그램.drawio…]()
 
 ## ⚙ 기술 스택
 - Java
