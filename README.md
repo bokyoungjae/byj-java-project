@@ -53,7 +53,8 @@ Java OOP 설계와 Swing GUI 구현을 중심으로 제작했습니다.
 ---
 
 ## 🗂 프로젝트 구조
-[Uploading 제목 없는 다이어그램.drawio…]()
+<img width="772" height="648" alt="image" src="https://github.com/user-attachments/assets/91e47548-924b-4244-ac08-597b409e7d72" />
+
 
 ## ⚙ 기술 스택
 - Java
